@@ -1,3 +1,10 @@
 a. What is Git and how is it different than GitHub.
-b. Why do we use the terminal ?
+a1)To define what Git is I want to start by talking about & explaining what a "source code" is. Source codes to me is much like the important Genetic codes that made up the DNA and how they are wrapped tightly and compartmentalized in sections; basically like one's music files in their music folders. In terms of Git and it relates to Git; Git is what is known as "Verison Control System" and what it does it that it helps does working on a project/source code share their work and work together smooth and efficiently on their work without them clashing or accidentally making unwanted changes to whatever work they have each done or contributed. 
+
+b. Why do we use the terminal?
+b1) we use a terminal to directly interract with the operating system and give it a more detailed instruction of use them to automate task at a much faster pace.
+
 c. Explain 3 benefits version control in your own words.. 
+c1) As a talked about in question 1, a benefit of VCS Verison control system is that it allows people to share and work together on a project.
+c2) It helps prevent people that are working together on a project from accidentally clashing or deleting or overriding the works of others
+C3) Finally it helps one keep track of their progress and correct past mistakes to the work they are doing from whatever stage or timeline.
